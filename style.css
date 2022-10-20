@@ -1,0 +1,10 @@
+body{
+    font-family: 'Pretendard', sans-serif !important;
+  }
+
+  @media screen and (max-width: 576px) {
+    video{
+        width: 120%;
+        transform: translateX(-7%);
+    }
+  }
